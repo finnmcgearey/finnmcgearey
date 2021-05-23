@@ -1,0 +1,4 @@
+- I'm @finnmcgearey
+- I'm studying software engineering/computer science at Swinburne University of Technology
+- I know Python and a fair amount of C++
+- I'm interested in making games, robots/mechatronics, etc.
